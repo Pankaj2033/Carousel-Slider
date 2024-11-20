@@ -6,9 +6,3 @@
 ## 👉 This image slider is fully Responsive. 
 
 
-
-# Subscribe my channel "Creative JS Coder"
-
-
-
-<img src="./image/Thumbnail.png">
